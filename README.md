@@ -1,6 +1,5 @@
 # tensorflow-lstm
-An LSTM created in tensorflow to predict the temperature at various arenas. In this situation it is predicting the next temperature at the
-Capital Center based on the data available.
+An LSTM created in tensorflow to predict the temperature at various arenas. In this situation it is predicting the temperature for the day at the Capital Center based on the data available.
 
 ## To run
 py lstm.py [arenas.csv]
